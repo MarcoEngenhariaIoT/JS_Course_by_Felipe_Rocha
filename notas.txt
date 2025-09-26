@@ -1,0 +1,13 @@
+digitar ! para criar automaticamente a estrutura do HTML
+
+instalado a extenção Live server
+Server para atualizar o navegador automaticamente sem precisar mandar atualizar
+
+alert("Hello Marco")
+    abre uma caixa de diálogo com uma msg mas trava o restante do código até o ok ser pressionado.
+
+const cria uma variavel imutável, que não se pode alterar
+const = 'Hello World'
+
+let cira uma variável que pode ser alterada, dinâmica
+let = 'Hello World'
